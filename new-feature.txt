@@ -1,0 +1,5 @@
+The new features for the miu library remote repo are:
+1. Login
+2. Create user with proper user credentials.
+3. Send email for user verification
+
